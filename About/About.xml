@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Growing Zone Priorities</name>
+	<author>Ilyaki</author>
+	<description>Allows you to set priorities for which growing zone to sow and harvest first. Also works on plant pots, hydroponics, etc.
+
+Save friendly!</description>
+	<url>TODO</url>
+	<supportedVersions>
+		<li>1.0</li>
+	</supportedVersions>
+</ModMetaData>
