@@ -4,7 +4,11 @@
 	<author>Ilyaki</author>
 	<description>Allows you to set priorities for which growing zone to sow and harvest first. Also works on plant pots, hydroponics, etc.
 
-Save friendly!</description>
+Save friendly!
+
+v1.1.0.0 Changelog:
+ - Fixed bug where colonists would plant the wrong plant.
+ - Massively simplified the code, so less performance impact.</description>
 	<url>https://github.com/Ilyaki/GrowingZonePriorities/</url>
 	<supportedVersions>
 		<li>1.0</li>

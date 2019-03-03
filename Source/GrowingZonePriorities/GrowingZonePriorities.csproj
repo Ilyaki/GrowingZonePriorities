@@ -61,7 +61,7 @@
     <Compile Include="Patch.cs" />
     <Compile Include="PlantBuilding\PlantBuildingExposeDataPatcher.cs" />
     <Compile Include="PlantBuilding\PlantBuildingGizmoPatcher.cs" />
-    <Compile Include="PotentialGrowingCellsPatcher.cs" />
+    <Compile Include="GetPriorityPatcher.cs" />
     <Compile Include="Priorities.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
